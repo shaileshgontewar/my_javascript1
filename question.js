@@ -11,7 +11,6 @@ const handlesearch = e => {
 
 // value={search || ""}
 // onChange={handlesearch}
-
 // #Use Form Data
 // {
 //    "teacher_code":"00018",
